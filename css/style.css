@@ -392,8 +392,8 @@ select.form-control{-webkit-appearance:none;}
 
 /*added now*/
 
-.ppr{padding: 0}
-=======
+.ppr{padding: 0;margin: 0;}
 /* editing */
 .mahesh{font-weight: 550;}
+
 
